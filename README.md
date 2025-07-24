@@ -59,7 +59,7 @@ Here are some of the technologies and tools I work with. This list is always gro
 <br/>
 <br/>
 <a href="https://leetcode.com/u/Shyamac/">
-  <img align="center" src="https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
+  <img align="center" src="https://leetcode-stats-card.herokuapp.com/u/Shyamac" alt="Shyam's LeetCode Stats" />
 </a>
 <br/>
 <br/>
