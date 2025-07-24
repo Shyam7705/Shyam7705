@@ -42,7 +42,7 @@ Here are some of the technologies and tools I work with. This list is always gro
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 <br/><br/>
-<a href="https://leetcode.com/Shyamac/">
+<a href="https://leetcode.com/u/Shyamac/">
 <img align="center" src="https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
 </a>
 <br/><br/>
@@ -50,7 +50,7 @@ Here are some of the technologies and tools I work with. This list is always gro
 <img align="center" src="https://gfg-readme-stats.vercel.app/api?user_id=baranwal8k15&theme=tokyonight&hide_border=true"/>
 </a>
 <br/><br/>
-<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
+<a href="https://www.hackerrank.com/profile/baranwal07shyam">
 <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
 
