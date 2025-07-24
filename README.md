@@ -1,29 +1,37 @@
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<a href="https://github.com/Shyam7705">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam7705&repo=YOUR_PINNED_REPO_NAME&theme=tokyonight" alt="Pin Repo"/>
+</a>
 </div>
 
-👨‍💻 About Me
-I'm Shyam Baranwal, a passionate and results-driven Software Developer from India with a knack for creating efficient, scalable, and user-friendly solutions. I thrive on solving complex problems and am constantly exploring new technologies to enhance my skill set.
+<h1 align="center">Hi 👋, I'm Shyam Baranwal</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-🌱 I’m currently learning about Cloud-Native technologies and Microservices Architecture.
+<p align="right"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50" /> </p>
 
-🤔 Ask me about SQL, Python, Java, C and C++.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shyam7705&label=Profile%20views&color=0e75b6&style=flat" alt="shyam7705" /> </p>
 
-📫 How to reach me: baranwal07shyam@gmail.com
+<a target="_blank" align="center">
+<img align="right" top="500" height="300" src="https://user-images.githubusercontent.com/73097560/115834327-9a4b5a00-a447-11eb-997d-1ae3a3de961b.gif">
+</a>
+
+🌱 I’m currently learning Cloud-Native technologies and Microservices Architecture.
+
+💬 Ask me about SQL, Python, Java, C and C++
+
+📫 How to reach me baranwal07shyam@gmail.com
 
 ⚡ Fun fact: I believe that with enough sleep, any bug can be fixed.
 
-🤝 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/baranwal07shyam/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/baranwal07shyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranwal07shyam" height="30" width="40" /></a>
 </p>
 
-🛠️ Languages and Tools
-Here are some of the technologies and tools I work with. This list is always growing!
-
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -31,27 +39,34 @@ Here are some of the technologies and tools I work with. This list is always gro
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> </a>
 </p>
 
-📊 My Coding Stats & GitHub Stats
-<div align="center">
+<br>
 
-<a href="https://github.com/Shyam7705">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shyam7705&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shyam's GitHub Stats" />
-</a>
-<br/><br/>
-<a href="https://github.com/Shyam7705">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
-<br/><br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shyam7705&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shyam7705" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shyam7705&show_icons=true&locale=en&theme=tokyonight" alt="shyam7705" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam7705&theme=tokyonight" alt="shyam7705" />
+</p>
+
+<p align="center">
 <a href="https://leetcode.com/Shyamac/">
-<img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+<img align="center" src="https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
 </a>
-<br/><br/>
+</p>
+
+<p align="center">
 <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/">
 <img align="center" src="https://gfg-readme-stats.vercel.app/api?user_id=baranwal8k15&theme=tokyonight&hide_border=true"/>
 </a>
-<br/><br/>
-<a href="https://www.hackerrank.com/profile/baranwal07shyam">
+</p>
+
+<p align="center">
+<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
 <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
-
-</div>
+</p>
