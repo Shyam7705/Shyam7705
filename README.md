@@ -7,12 +7,10 @@
 ### 👨‍💻 About Me
 I'm Shyam Baranwal, a passionate and results-driven Software Developer from India with a knack for creating efficient, scalable, and user-friendly solutions. I thrive on solving complex problems and am constantly exploring new technologies to enhance my skill set.
 
-- 🔭 I’m currently working on **[Your Current Project or 'a cutting-edge FinTech application']**.
 - 🌱 I’m currently learning about **[A New Technology, e.g., 'Cloud-Native technologies and Microservices Architecture']**.
-- 💼 I’m looking for **[What you're looking for, e.g., 'new opportunities in backend development' or 'collaborators for an open-source AI project']**.
-- 🤔 Ask me about **`C++`, `Python`, `JavaScript`, `React`, `Node.js`, and `System Design`**.
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: I believe that with enough coffee, any bug can be fixed.
+- 🤔 Ask me about **`SQL`, `Python`, 'java', 'C' and 'C++'**.
+- 📫 How to reach me: **baranwal07shyam@gmail.com**
+- ⚡ Fun fact: I believe that with enough sleep, any bug can be fixed.
 
 ---
 
