@@ -48,23 +48,23 @@ Here are some of the technologies and tools I work with. This list is always gro
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shyam's GitHub Stats" />
+<a href="https://github.com/Shyam7705">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shyam7705&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shyam's GitHub Stats" />
 </a>
 <br/>
 <br/>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/Shyam7705">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 <br/>
 <br/>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img align="center" src="https://leetcode-stats-card.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="Shyam's LeetCode Stats" />
+<a href="https://leetcode.com/u/Shyamac/">
+  <img align="center" src="https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
 </a>
 <br/>
 <br/>
-<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-  <img align="center" src="https://gfg-readme-stats.vercel.app/api?user_id=YOUR_GFG_USERNAME&theme=tokyonight&hide_border=true"/>
+<a href="https://auth.geeksforgeeks.org/user/baranwal8k15/">
+  <img align="center" src="https://gfg-readme-stats.vercel.app/api?user_id=baranwal8k15&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
