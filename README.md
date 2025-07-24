@@ -42,8 +42,8 @@ Here are some of the technologies and tools I work with. This list is always gro
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 <br/><br/>
-<a href="https://leetcode.com/u/Shyamac/">
-<img align="center" src="https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
+<a href="https://leetcode.com/Shyamac/">
+<img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
 </a>
 <br/><br/>
 <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/">
