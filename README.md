@@ -25,10 +25,10 @@ Here are some of the technologies and tools I work with. This list is always gro
 
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> </a>
 </p>
 
 📊 My Coding Stats & GitHub Stats
@@ -42,12 +42,16 @@ Here are some of the technologies and tools I work with. This list is always gro
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 <br/><br/>
-<a href="https://www.google.com/search?q=https://leetcode.com/Shyamac/">
-<img align="center" src="https://www.google.com/search?q=https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
+<a href="https://leetcode.com/Shyamac/">
+<img align="center" src="https://leetcode-stats-card.herokuapp.com/Shyamac" alt="Shyam's LeetCode Stats" />
 </a>
 <br/><br/>
 <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/">
 <img align="center" src="https://gfg-readme-stats.vercel.app/api?user_id=baranwal8k15&theme=tokyonight&hide_border=true"/>
+</a>
+<br/><br/>
+<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
+<img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
 
 </div>
