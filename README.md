@@ -84,10 +84,11 @@
 </p>
 
 <!-- GeeksforGeeks -->
+<!-- GeeksforGeeks -->
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/" target="_blank">
     <img alt="GfG stats"
-         src="https://gfg-stats-card.vercel.app/api?username=baranwal8k15&theme=dark" />
+         src="https://gfg-stats-card.vercel.app/api?username=baranwal8k15&theme=dark&border_radius=8&hide_title=false" />
   </a>
 </p>
 
@@ -95,9 +96,10 @@
 <p align="center">
   <a href="https://www.hackerrank.com/profile/baranwal07shyam" target="_blank">
     <img alt="HackerRank badge"
-         src="https://hackerrank-badge.vercel.app/api/skills?username=baranwal07shyam&theme=dark" />
+         src="https://hackerrank-badge.vercel.app/api/skills?username=baranwal07shyam&theme=dark&border_radius=8" />
   </a>
 </p>
+
 
 
 ---
