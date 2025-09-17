@@ -113,7 +113,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
 <div align=center>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9F%A1%F0%9F%91%BB+PACMAN+eating+my;Github+contribution+Graph+!!.." alt="Typing SVG" /></a></h2>
 
