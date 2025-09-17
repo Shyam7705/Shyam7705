@@ -7,9 +7,9 @@
 </p>
 
 <!-- Badges -->
-<p align="center">
+<div align="center">
   ![](https://komarev.com/ghpvc/?username=Shyam7705)<br>
-</p>
+
 
 ---
 
