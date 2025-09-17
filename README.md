@@ -1,16 +1,14 @@
 <!-- Profile README for github.com/<your-username> -->
 <!-- Tip: rename this repo to <your-username>/<your-username> so it shows on your profile -->
 
-<h1 align="center">Hi there 👋, I'm <YOUR NAME></h1>
+<h1 align="center">Hi there 👋, I'm Shyam Baranwal</h1>
 <p align="center">
-  Passionate about data, ML, and systems; shipping reliable code and learning every day.
+  Passionate about data related work, cloud and learning  AI .
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20ML-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Java%20%7C%20Python%20%7C%20C%2B%2B-informational?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge&label=Profile+Views" />
+  ![](https://komarev.com/ghpvc/?username=Shyam7705)<br>
 </p>
 
 ---
@@ -21,26 +19,24 @@
 - Recently working on DataScience notebooks, DSA in C++, and Java practice repositories.  
 
 ### Contacts
-- Email: <your.email@example.com>  
-- LinkedIn: https://www.linkedin.com/in/<your-handle>/  
-- Twitter/X: https://x.com/<your-handle>  
+- Email: <baranwal07shyam@gmail.com>  
+- LinkedIn: https://www.linkedin.com/in/baranwal07shyam/ 
 - Portfolio: https://<your-domain>/  
 
 ---
 
 ### Pinned work
-- DataScience — Jupyter notebooks for EDA, feature engineering, and model baselines.  
-- DSA — Competitive programming and data structures in modern C++.  
+- Work on some projects with python (Real-Time-Process-Monitoring-Dashboard).  
+- DSA — Competitive programming and data structures in modern JAVA.  
 - JAVA — Language fundamentals and practice problems.  
 
 ---
 
 ### GitHub stats
 <p align="center">
-  <!-- Overall stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <!-- Top languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" />
+  ![](https://github-readme-stats.vercel.app/api?username=Shyam7705&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shyam7705&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 <!-- Streak -->
