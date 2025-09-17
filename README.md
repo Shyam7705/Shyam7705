@@ -17,14 +17,12 @@
 - Practicing algorithms, data engineering, and MLOps; currently building end‑to‑end data pipelines and ML experimentation tooling.  
 - Interested in OSS, mentoring, and Google Summer of Code; always up for code reviews and design discussions.  
 - Recently working on DataScience notebooks, DSA in C++, and Java practice repositories.  
-<div>
+
 ### Lets Connect
 <img src="GIF/Handshake.gif" width="24px">
 - Email: <baranwal07shyam@gmail.com>  
 - LinkedIn: https://www.linkedin.com/in/baranwal07shyam/ 
-- Portfolio: https://<your-domain>/  
-</div>
-<img height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JqZ2xhNWM2NzE0Z2FtZ3EyYzBqaWN4d2w1cDBqNWtiODcwMzgzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
 ---
 
 ### Pinned work
