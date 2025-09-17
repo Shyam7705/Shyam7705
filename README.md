@@ -24,8 +24,7 @@
 - LinkedIn: https://www.linkedin.com/in/baranwal07shyam/ 
 - Portfolio: https://<your-domain>/  
 </div>
-<img height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JqZ2xhNWM2NzE0Z2FtZ3EyYzBqaWN4d2w1cDBqNWtiODcwMzgzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
----
+
 
 ### Pinned work
 - Work on some projects with python (Real-Time-Process-Monitoring-Dashboard).  
@@ -41,8 +40,11 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam7705&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
+<p align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shyam7705&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
+
 
 <!-- Streak -->
 <p align="center">
