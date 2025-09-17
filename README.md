@@ -19,7 +19,6 @@
 - Recently working on DataScience notebooks, DSA in C++, and Java practice repositories.  
 
 ### Lets Connect
-<img src="GIF/Handshake.gif" width="24px">
 - Email: <baranwal07shyam@gmail.com>  
 - LinkedIn: https://www.linkedin.com/in/baranwal07shyam/ 
 
