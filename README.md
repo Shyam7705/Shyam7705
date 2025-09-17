@@ -74,23 +74,33 @@
 
 ### Coding practice stats
 
-<!-- Row 1: LeetCode (full width) -->
+<!-- LeetCode (smaller) -->
 <p align="center">
   <a href="https://leetcode.com/Shyamac/">
-    <img src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="600" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" alt="LeetCode Stats"/>
   </a>
 </p>
 
-<!-- Row 2: GfG and HackerRank side by side -->
+<!-- GfG and HackerRank side by side (smaller) -->
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=baranwal8k15&theme=dark" width="290" alt="GfG Stats"/>
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=baranwal8k15&theme=dark" width="240" alt="GfG Stats"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/baranwal07shyam">
-    <img src="https://img.shields.io/badge/HackerRank-baranwal07shyam-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=black" width="290" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" width="240" alt="HackerRank"/>
   </a>
 </p>
+
+<!-- HackerRank alternative if badge doesn't work -->
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/baranwal07shyam">
+    <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e80b1.svg" width="60" alt="SQL Badge"/>
+    <img src="https://hrcdn.net/fcore/assets/badges/python-5aa9a6ba24.svg" width="60" alt="Python Badge"/>
+    <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-46c41dac31.svg" width="60" alt="Problem Solving Badge"/>
+  </a>
+</p>
+
 
 
 
