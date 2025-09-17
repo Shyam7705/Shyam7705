@@ -41,19 +41,19 @@
 
 <!-- Streak -->
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=<your-username>&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Shyam7705&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam7705&theme=tokyo-night" />
 </p>
 
 ---
 
 ### GitHub trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<your-username>&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shyam7705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
