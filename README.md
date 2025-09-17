@@ -30,7 +30,7 @@
 - JAVA — Language fundamentals and practice problems.  
 
 ---
-
+<div align = center>
 ### GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Shyam7705&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
