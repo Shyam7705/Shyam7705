@@ -1,5 +1,4 @@
 <!-- Profile README for github.com/<your-username> -->
-<!-- Tip: rename this repo to <your-username>/<your-username> so it shows on your profile -->
 
 <h1 align="center">Hi there 👋, I'm Shyam Baranwal</h1>
 <p align="center">
@@ -13,9 +12,17 @@
 ---
 
 ### About me
-- Practicing algorithms, data engineering, and MLOps; currently building end‑to‑end data pipelines and ML experimentation tooling.  
-- Interested in OSS, mentoring, and Google Summer of Code; always up for code reviews and design discussions.  
-- Recently working on DataScience notebooks, DSA in C++, and Java practice repositories.  
+Welcome to my safe space, Hi I am Shyam Baranwal, I am a guy who is exceling day by day, learning new things, searching real-life project to do.
+
+What fuels me:
+These new tech savy things, 
+Challenges when I solve the DSA problem
+
+I want to go in the direction of data field with the cloud
+
+And I am always ready to colaborate, if you want I will be there
+
+One more thing I believes in lets create what doesn't exist ✨
 
 ---
 
@@ -32,6 +39,7 @@
 ### Work
 - DSA — Competitive programming and data structures in modern JAVA.  
 - JAVA — Language fundamentals and practice problems.  
+- Learning the AWS basic and exploring the deep learning 
 
 ---
 
