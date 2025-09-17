@@ -29,6 +29,16 @@
 - JAVA — Language fundamentals and practice problems.  
 
 ---
+
+### Tech stack
+- Languages: Java, Python, C  
+- Data: Pandas, NumPy, Matplotlib
+- Tools: Notion, VSCode
+- Cloud: AWS Practitioner level knowledge   
+- Infra: GitHub Actions, Linux, SQL
+
+---
+
 <div align = center>
 ### GitHub stats
 
@@ -101,15 +111,6 @@
     <img src="https://hackerrank-badge.vercel.app/api/skills?username=baranwal07shyam&theme=dark" />
   </a>
 </p>
-
----
-
-### Tech stack
-- Languages: Java, Python, C  
-- Data: Pandas, NumPy, Matplotlib
-- Tools: Notion, VSCode
-- Cloud: AWS Practitioner level knowledge   
-- Infra: GitHub Actions, Linux, SQL  
 
 ---
 
