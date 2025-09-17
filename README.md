@@ -74,28 +74,21 @@
 
 ### Coding practice stats
 
-
-<!-- LeetCode -->
-### Coding practice stats
-
-<!-- LeetCode -->
+<!-- Row 1: LeetCode (full width) -->
 <p align="center">
   <a href="https://leetcode.com/Shyamac/">
     <img src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="600" alt="LeetCode Stats"/>
   </a>
 </p>
 
-<!-- GeeksforGeeks -->
+<!-- Row 2: GfG and HackerRank side by side -->
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=baranwal8k15&theme=dark" width="600" alt="GfG Stats"/>
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=baranwal8k15&theme=dark" width="290" alt="GfG Stats"/>
   </a>
-</p>
-
-<!-- HackerRank -->
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/baranwal07shyam">
-    <img src="https://img.shields.io/badge/HackerRank-baranwal07shyam-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/HackerRank-baranwal07shyam-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=black" width="290" alt="HackerRank"/>
   </a>
 </p>
 
