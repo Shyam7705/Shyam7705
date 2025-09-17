@@ -76,29 +76,26 @@
 
 
 <!-- LeetCode -->
+### Coding practice stats
+
+<!-- LeetCode -->
 <p align="center">
-  <a href="https://leetcode.com/Shyamac/" target="_blank" rel="noopener noreferrer">
-    <img alt="LeetCode card"
-         width="640"
-         src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <a href="https://leetcode.com/Shyamac/">
+    <img src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="600" alt="LeetCode Stats"/>
   </a>
 </p>
 
 <!-- GeeksforGeeks -->
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/" target="_blank" rel="noopener noreferrer">
-    <img alt="GfG stats"
-         width="640"
-         src="https://gfg-stats-card.vercel.app/api?username=baranwal8k15&theme=dark&border_radius=10&show_icons=true" />
+  <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=baranwal8k15&theme=dark" width="600" alt="GfG Stats"/>
   </a>
 </p>
 
 <!-- HackerRank -->
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/baranwal07shyam" target="_blank" rel="noopener noreferrer">
-    <img alt="HackerRank badge"
-         width="640"
-         src="https://hackerrank-badge.vercel.app/api/skills?username=baranwal07shyam&theme=dark&border_radius=10" />
+  <a href="https://www.hackerrank.com/profile/baranwal07shyam">
+    <img src="https://img.shields.io/badge/HackerRank-baranwal07shyam-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </p>
 
