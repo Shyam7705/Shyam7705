@@ -74,29 +74,31 @@
 
 ### Coding practice stats
 
+
 <!-- LeetCode -->
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  <a href="https://leetcode.com/Shyamac/">
-    <img src="https://leetcard.jacoblin.cool/<leetcode-username>?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<p align="center">
+  <a href="https://leetcode.com/Shyamac/" target="_blank">
+    <img alt="LeetCode card"
+         src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
   </a>
 </p>
 
 <!-- GeeksforGeeks -->
-<p>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-  <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/">
-    <img src="https://gfg-stats-card.vercel.app/api?username=baranwal8k15&theme=dark" />
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/" target="_blank">
+    <img alt="GfG stats"
+         src="https://gfg-stats-card.vercel.app/api?username=baranwal8k15&theme=dark" />
   </a>
 </p>
 
 <!-- HackerRank -->
-<p>
-  <img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank" />
-  <a href="https://www.hackerrank.com/profile/baranwal07shyam>">
-    <img src="https://hackerrank-badge.vercel.app/api/skills?username=baranwal07shyam&theme=dark" />
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/baranwal07shyam" target="_blank">
+    <img alt="HackerRank badge"
+         src="https://hackerrank-badge.vercel.app/api/skills?username=baranwal07shyam&theme=dark" />
   </a>
 </p>
+
 
 ---
 
