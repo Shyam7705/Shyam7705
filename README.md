@@ -78,7 +78,7 @@ One more thing I believes in lets create what doesn't exist ✨
 
 ---
 
-### Coding practice stats
+### Coding platform stats
 
 <!-- LeetCode -->
 <p align="center">
