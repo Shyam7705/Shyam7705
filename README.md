@@ -112,18 +112,18 @@ One more thing I believes in lets create what doesn't exist ✨
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%90%8D+SNAKE+Eating+my;Github+contribution+Graph+!!...." alt="Typing SVG" /></a></h2>
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam7705/shyam7705/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam7705/shyam7705/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shyam7705/shyam7705/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output/github-snake.svg" />
 </picture>
 
 <div align=center>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9F%A1%F0%9F%91%BB+PACMAN+eating+my;Github+contribution+Graph+!!.." alt="Typing SVG" /></a></h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam7705/shyam7705/output1/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam7705/shyam7705/output1/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shyam7705/shyam7705/output1/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output1/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output1/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output1/pacman-contribution-graph.svg">
 </picture>
 
 
