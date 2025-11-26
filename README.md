@@ -58,9 +58,6 @@ One more thing I believes in lets create what doesn't exist ✨
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shyam7705/Shyam7705/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-<br/><br/>
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=Shyam7705&theme=highcontrast&hide_border=false" alt="Streak Stats" /><br/>
 
 </div>
@@ -104,6 +101,10 @@ One more thing I believes in lets create what doesn't exist ✨
     <img src="https://img.shields.io/badge/HackerRank-baranwal07shyam-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shyam770/Shyam770/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
