@@ -102,10 +102,6 @@ One more thing I believes in lets create what doesn't exist ✨
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shyam770/Shyam770/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
 ---
 
 ### Support
