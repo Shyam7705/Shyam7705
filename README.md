@@ -6,7 +6,7 @@
 </p>
 
 <!-- Badges -->
-![](https://komarev.com/ghpvc/?username=Shyam7705)<br>
+![](https://komarev.com/ghpvc/?username=shyam-medh)<br>
 
 
 ---
@@ -56,24 +56,24 @@ One more thing I believes in lets create what doesn't exist ✨
 
 <div align = center>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Shyam7705&theme=highcontrast&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shyam-medh&theme=highcontrast&hide_border=false)<br/>
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shyam7705&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shyam-medh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam7705&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-medh&theme=tokyo-night" />
 </p>
 
 ---
 
 ### GitHub trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shyam7705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shyam-medh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
