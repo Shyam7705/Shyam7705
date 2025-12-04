@@ -82,22 +82,22 @@ One more thing I believes in lets create what doesn't exist ✨
 
 <!-- LeetCode -->
 <p align="center">
-  <a href="https://leetcode.com/Shyamac/">
-    <img src="https://leetcard.jacoblin.cool/Shyamac?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="600" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/shyam-medh/">
+    <img src="https://leetcard.jacoblin.cool/shyam-medh?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="600" alt="LeetCode Stats"/>
   </a>
 </p>
 
 <!-- GeeksforGeeks -->
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/baranwal8k15/practice/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=baranwal8k15&theme=dark" width="600" alt="GfG Stats"/>
+  <a href="https://auth.geeksforgeeks.org/user/shyammedh/practice/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyammedh&theme=dark" width="600" alt="GfG Stats"/>
   </a>
 </p>
 
 <!-- HackerRank -->
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/baranwal07shyam">
-    <img src="https://img.shields.io/badge/HackerRank-baranwal07shyam-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  <a href="https://www.hackerrank.com/profile/shyam_medh">
+    <img src="https://img.shields.io/badge/HackerRank-shyam_medh-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </p>
 
